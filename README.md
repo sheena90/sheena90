@@ -23,6 +23,6 @@
     <a href="mailto:jinyinshu90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-ff0000?style=flat-square&logo=google&logoColor=white"/></a>
 </div>
 <br><br>
-<div align=center>
-    ![sheena90's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheena90&show_icons=true&theme=radical)
-</div>
+
+![sheena90's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheena90&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheena90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
